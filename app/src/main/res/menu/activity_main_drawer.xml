@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Import" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/bookalbum" />
+        <item
+            android:id="@+id/nav_event"
+            android:icon="@drawable/ic_event_black_24dp"
+            android:title="@string/events" />
+        <item
+            android:id="@+id/nav_mail"
+            android:icon="@drawable/ic_email_black_24dp"
+            android:title="@string/e_mail" />
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="@string/exit" />
+    </group>
+
+</menu>

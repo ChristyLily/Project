@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Library</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="username">用户名</string>
+    <string name="inputname">请输入用户名</string>
+    <string name="inputPW">请输入密码</string>
+    <string name="PassWord">密 码</string>
+    <string name="login">登录</string>
+    <string name="regist">注册</string>
+    <string name="todo">TODO</string>
+    <string name="username1">用户名</string>
+    <string name="password1">密 码</string>
+    <string name="password2">密 码</string>
+    <string name="inputname1">请输入用户名</string>
+    <string name="inputPW1">请输入密码</string>
+    <string name="inputPW2">再次确认密码</string>
+    <string name="confirm">确定</string>
+    <string name="todo1">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="exit">Exit</string>
+    <string name="e_mail">E-mail</string>
+    <string name="events">Events</string>
+    <string name="bookalbum">BookAlbum</string>
+    <string name="additem">AddItem</string>
+    <string name="removeitem">RemoveItem</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="comment">在这里输入内容...</string>
+</resources>
